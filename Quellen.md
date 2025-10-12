@@ -17,7 +17,7 @@ Quelle 16: . <br>
 Quelle 17: . <br>
 Quelle 18: . <br>
 
-=================================================================================================
+============================================================================================
 Taherdoost, Hamed. Smart Contracts in Blockchain Technology: A Critical Review. Information, 2023, 14(2), 117. DOI:10.3390/info14020117 
 MDPI
 
