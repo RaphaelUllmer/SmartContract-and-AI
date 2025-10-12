@@ -17,3 +17,25 @@ Quelle 16: . <br>
 Quelle 17: . <br>
 Quelle 18: . <br>
 
+=================================================================================================
+Taherdoost, Hamed. Smart Contracts in Blockchain Technology: A Critical Review. Information, 2023, 14(2), 117. DOI:10.3390/info14020117 
+MDPI
+
+Hu, Bin; Zhang, Zongyang; Liu, Jianwei; Liu, Yizhong; Yin, Jiayuan; Lu, Rongxing; Lin, Xiaodong. A comprehensive survey on smart contract construction and execution: paradigms, tools, and systems. (arXiv, 2020) 
+arXiv
+
+Rehmani, Mubashir Husain; et al. Blockchain Fundamentals and Working Principles. In: Blockchain Systems and Communication Networks: From Concepts to Implementation. Springer, 2021. 
+SpringerLink
+
+PeerJ Computer Science. Blockchain technology and application: an overview. 2023. 
+PubMed
++1
+
+Journal of Systems and Software. A systematic literature review of blockchain and smart contract development: Techniques, tools, and open challenges. 2021. DOI:10.1016/j.jss.2020.110891 
+ScienceDirect
+
+Journal of Data, Information and Management. A Blockchain-Based Smart Contract Towards Developing Secured University Examination System. 2021. 
+SpringerLink
+
+Journal of Industrial Information Integration. An overview of blockchain smart contract execution mechanism. 2024. 
+ScienceDirect
