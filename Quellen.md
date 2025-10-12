@@ -1,3 +1,19 @@
-Quelle 1: https://link.springer.com/chapter/10.1007/978-3-030-71788-9_3
-Quelle 2: https://www.mdpi.com/1996-1073/13/4/881
-Quelle 3: https://pubmed.ncbi.nlm.nih.gov/38077532/
+Quelle 1: https://link.springer.com/chapter/10.1007/978-3-030-71788-9_3 <br>
+Quelle 2: https://www.mdpi.com/1996-1073/13/4/881 <br>
+Quelle 3: https://pubmed.ncbi.nlm.nih.gov/38077532/ <br>
+Quelle 4: https://link.springer.com/article/10.1007/s42488-021-00056-0 <br>
+Quelle 5: . <br>
+Quelle 6: . <br>
+Quelle 7: . <br>
+Quelle 8: . <br>
+Quelle 9: . <br>
+Quelle 10: . <br>
+Quelle 11: . <br>
+Quelle 12: . <br>
+Quelle 13: . <br>
+Quelle 14: . <br>
+Quelle 15: . <br>
+Quelle 16: . <br>
+Quelle 17: . <br>
+Quelle 18: . <br>
+
