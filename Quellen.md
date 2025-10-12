@@ -2,7 +2,7 @@ Quelle 1: https://link.springer.com/chapter/10.1007/978-3-030-71788-9_3 <br>
 Quelle 2: https://www.mdpi.com/1996-1073/13/4/881 <br>
 Quelle 3: https://pubmed.ncbi.nlm.nih.gov/38077532/ <br>
 Quelle 4: https://link.springer.com/article/10.1007/s42488-021-00056-0 <br>
-Quelle 5: . <br>
+Quelle 5: https://www.mdpi.com/2078-2489/14/2/117 <br>
 Quelle 6: . <br>
 Quelle 7: . <br>
 Quelle 8: . <br>
