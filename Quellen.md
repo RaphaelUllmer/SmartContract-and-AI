@@ -10,14 +10,26 @@ Quelle 9: McCarthy et al., 1956. TODO!!! <br>
 Quelle 10: Russell & Norvig, 2022. TODO!!! <br>
 Quelle 11: vgl. Giarratano & Riley, 2022 TODO!!! <br>
 Quelle 12: Benjamins et al., 2021. TODO!!!<br>
-Quelle 13: . <br>
-Quelle 14: . <br>
-Quelle 15: . <br>
-Quelle 16: . <br>
-Quelle 17: . <br>
-Quelle 18: . <br>
+Quelle 13: vgl. Jordan & Mitchell, 2015 <br>
+Quelle 14: Goodfellow et al., 2016 <br>
+Quelle 15: vgl. Cambria & White, 2014 <br>
+Quelle 16: vgl. Geffner & Bonet, 2022 <br>
+Quelle 17: vgl. Brachman & Levesque, 2023 <br>
+Quelle 18: vgl. Miller, 2019, Artificial Intelligence, 267(1) <br>
+Quelle 19: Arrieta et al., 2020, Information Fusion <br>
+Quelle 20: . <br>
+Quelle 21: . <br>
+Quelle 22: . <br>
+Quelle 23: . <br>
+Quelle 24: . <br>
+Quelle 25: . <br>
+Quelle 26: . <br>
+Quelle 27: . <br>
+Quelle 28: . <br>
+
 
 ============================================================================================
+2.1. <br>
 Taherdoost, Hamed. Smart Contracts in Blockchain Technology: A Critical Review. Information, 2023, 14(2), 117. DOI:10.3390/info14020117 
 MDPI
 
@@ -39,3 +51,21 @@ SpringerLink
 
 Journal of Industrial Information Integration. An overview of blockchain smart contract execution mechanism. 2024. 
 ScienceDirect
+
+============================================================================================
+2.2. <br>
+Jordan, M. I., & Mitchell, T. M. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245), 255–260.
+
+Miller, T. (2019). Explanation in artificial intelligence: Insights from the social sciences. Artificial Intelligence, 267, 1–38.
+
+Arrieta, A. B., et al. (2020). Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges. Information Fusion, 58, 82–115.
+
+Giarratano, J., & Riley, G. (2022). Expert Systems: Principles and Programming. Elsevier.
+
+Geffner, H., & Bonet, B. (2022). A Concise Introduction to Models and Methods for Automated Planning. Artificial Intelligence, 311, 103785.
+
+Cambria, E., & White, B. (2014). Jumping NLP Curves: A Review of Natural Language Processing Research. IEEE Computational Intelligence Magazine, 9(2), 48–57.
+
+Russell, S., & Norvig, P. (2022). Artificial Intelligence: A Modern Approach. Springer.
+
+Brachman, R. J., & Levesque, H. J. (2023). Knowledge Representation and Reasoning. Cambridge University Press.
