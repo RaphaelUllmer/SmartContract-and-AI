@@ -8,8 +8,8 @@ Quelle 7: https://arxiv.org/abs/2008.13413 <br>
 Quelle 8: https://www.sciencedirect.com/science/article/abs/pii/S0164121220302818 <br>
 Quelle 9: McCarthy et al., 1956. TODO!!! <br>
 Quelle 10: Russell & Norvig, 2022. TODO!!! <br>
-Quelle 11: . <br>
-Quelle 12: . <br>
+Quelle 11: vgl. Giarratano & Riley, 2022 TODO!!! <br>
+Quelle 12: Benjamins et al., 2021. TODO!!!<br>
 Quelle 13: . <br>
 Quelle 14: . <br>
 Quelle 15: . <br>
