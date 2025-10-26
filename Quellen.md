@@ -18,8 +18,8 @@ Quelle 17: vgl. Brachman & Levesque, 2023 <br>
 Quelle 18: vgl. Miller, 2019, Artificial Intelligence, 267(1) <br>
 Quelle 19: Arrieta et al., 2020, Information Fusion <br>
 Quelle 20: vgl. Xu et al., 2021; Salah et al., 2019; Cong & He, 2019 <br>
-Quelle 21: . <br>
-Quelle 22: . <br>
+Quelle 21: vgl. Santos et al., 2022; Schär, 2021 <br>
+Quelle 22: vgl. Koscina et al., 2020; Zhang et al., 2022 <br>
 Quelle 23: . <br>
 Quelle 24: . <br>
 Quelle 25: . <br>
@@ -69,3 +69,27 @@ Cambria, E., & White, B. (2014). Jumping NLP Curves: A Review of Natural Languag
 Russell, S., & Norvig, P. (2022). Artificial Intelligence: A Modern Approach. Springer.
 
 Brachman, R. J., & Levesque, H. J. (2023). Knowledge Representation and Reasoning. Cambridge University Press.
+
+
+============================================================================================
+2.3. <br>
+
+Xu, X., Weber, I., & Staples, M. (2021). Architecture for Blockchain Applications. Springer.
+
+Salah, K., Rehman, M. H. ur, Nizamuddin, N., & Al-Fuqaha, A. (2019). Blockchain for AI: Review and open research challenges. IEEE Access, 7, 10127–10149.
+
+Cong, L. W., & He, Z. (2019). Blockchain Disruption and Smart Contracts. The Review of Financial Studies, 32(5), 1754–1797.
+
+Santos, C., et al. (2022). Smart contracts and AI: A systematic review. Journal of Network and Computer Applications, 205, 103432.
+
+Rejeb, A., Keogh, J. G., & Treiblmaier, H. (2021). How Blockchain Technology Can Benefit Supply Chain Management: A Systematic Review. IEEE Access, 9, 65261–65278.
+
+Koscina, M., et al. (2020). Off-chain computation for smart contracts. Future Generation Computer Systems, 112, 476–490.
+
+Zhang, Y., Xue, R., & Liu, L. (2022). Security and privacy on blockchain: A survey. Computers & Security, 116, 102673.
+
+Casino, F., Dasaklis, T. K., & Patsakis, C. (2019). A systematic literature review of blockchain-based applications: Current status, classification and open issues. Telematics and Informatics, 36, 55–81.
+
+Radanović, I., & Likić, R. (2018). Opportunities for use of blockchain technology in medicine. Croatian Medical Journal, 59(4), 287–292.
+
+Mamoshina, P., et al. (2018). Converging blockchain and AI technologies to decentralize and accelerate biomedical research and healthcare. Oncotarget, 9(5), 5665–5690.
