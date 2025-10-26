@@ -20,8 +20,8 @@ Quelle 19: Arrieta et al., 2020, Information Fusion <br>
 Quelle 20: vgl. Xu et al., 2021; Salah et al., 2019; Cong & He, 2019 <br>
 Quelle 21: vgl. Santos et al., 2022; Schär, 2021 <br>
 Quelle 22: vgl. Koscina et al., 2020; Zhang et al., 2022 <br>
-Quelle 23: . <br>
-Quelle 24: . <br>
+Quelle 23: vgl. Mamoshina et al., 2018; Rejeb et al., 2021 <br>
+Quelle 24: vgl. Casino et al., 2019; Salah et al., 2019 <br>
 Quelle 25: . <br>
 Quelle 26: . <br>
 Quelle 27: . <br>
