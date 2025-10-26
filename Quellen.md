@@ -17,7 +17,7 @@ Quelle 16: vgl. Geffner & Bonet, 2022 <br>
 Quelle 17: vgl. Brachman & Levesque, 2023 <br>
 Quelle 18: vgl. Miller, 2019, Artificial Intelligence, 267(1) <br>
 Quelle 19: Arrieta et al., 2020, Information Fusion <br>
-Quelle 20: . <br>
+Quelle 20: vgl. Xu et al., 2021; Salah et al., 2019; Cong & He, 2019 <br>
 Quelle 21: . <br>
 Quelle 22: . <br>
 Quelle 23: . <br>
