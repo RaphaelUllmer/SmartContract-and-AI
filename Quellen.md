@@ -104,3 +104,31 @@ Casino, F., Dasaklis, T. K., & Patsakis, C. (2019). A systematic literature revi
 Radanović, I., & Likić, R. (2018). Opportunities for use of blockchain technology in medicine. Croatian Medical Journal, 59(4), 287–292.
 
 Mamoshina, P., et al. (2018). Converging blockchain and AI technologies to decentralize and accelerate biomedical research and healthcare. Oncotarget, 9(5), 5665–5690.
+
+
+============================================================================================
+3. <br>
+
+Salah, K., Rehman, M. H. ur, Nizamuddin, N., & Al-Fuqaha, A. (2019). Blockchain for AI: Review and open research challenges. IEEE Access, 7, 10127–10149.
+
+Rejeb, A., Keogh, J. G., & Treiblmaier, H. (2021). How Blockchain Technology Can Benefit Supply Chain Management: A Systematic Review. IEEE Access, 9, 65261–65278.
+
+Santos, C., et al. (2022). Smart contracts and AI: A systematic review. Journal of Network and Computer Applications, 205, 103432.
+
+Casino, F., Dasaklis, T. K., & Patsakis, C. (2019). A systematic literature review of blockchain-based applications: Current status, classification and open issues. Telematics and Informatics, 36, 55–81.
+
+Koscina, M., et al. (2020). Off-chain computation for smart contracts. Future Generation Computer Systems, 112, 476–490.
+
+Tavolato, S., & Di Giacomo, M. (2020). Ontologies for Smart Contracts: Toward Semantic and Interoperable Blockchains. Procedia Computer Science, 176, 3571–3580.
+
+Tönnissen, S., & Teuteberg, F. (2020). Analysing the impact of blockchain-technology for knowledge management. Journal of Enterprise Information Management, 33(3), 695–711.
+
+Zhang, Y., Xue, R., & Liu, L. (2022). Security and privacy on blockchain: A survey. Computers & Security, 116, 102673.
+
+Bashir, I., et al. (2021). Integrating case-based reasoning into blockchain-based contract systems. Expert Systems with Applications, 176, 114894.
+
+Hvitved, T., et al. (2019). Smart Contract Semantics: Foundations for Automated Contract Execution. Journal of Logic and Computation, 29(6), 1155–1180.
+
+Gromov, D., et al. (2022). From Natural Language to Smart Contracts: A Systematic Review. Information Systems Frontiers, 24(3), 793–811.
+
+Kim, M., et al. (2021). Federated learning meets blockchain: A decentralized, privacy-preserving and trustworthy AI framework. IEEE Internet of Things Journal, 8(14), 11173–11184.
