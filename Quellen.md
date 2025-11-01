@@ -24,7 +24,7 @@ Quelle 23: vgl. Mamoshina et al., 2018; Rejeb et al., 2021 <br>
 Quelle 24: vgl. Casino et al., 2019; Salah et al., 2019 <br>
 Quelle 25: vgl. Rejeb et al., 2021; Zhang et al., 2022; Radanović & Likić, 2018 <br>
 Quelle 26: vgl. Tavolato & Di Giacomo, 2020; Tönnissen & Teuteberg, 2020; Bashir et al., 2021 <br>
-Quelle 27: . <br>
+Quelle 27: vgl. Koscina et al., 2020; Zhang et al., 2022; Kim et al., 2021 <br>
 Quelle 28: . <br>
 
 
