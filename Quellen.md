@@ -25,7 +25,18 @@ Quelle 24: vgl. Casino et al., 2019; Salah et al., 2019 <br>
 Quelle 25: vgl. Rejeb et al., 2021; Zhang et al., 2022; Radanović & Likić, 2018 <br>
 Quelle 26: vgl. Tavolato & Di Giacomo, 2020; Tönnissen & Teuteberg, 2020; Bashir et al., 2021 <br>
 Quelle 27: vgl. Koscina et al., 2020; Zhang et al., 2022; Kim et al., 2021 <br>
-Quelle 28: . <br>
+Quelle 28: vgl. Santos et al., 2022; Casino et al., 2019; Zhang et al., 2022 <br>
+Quelle 29: . <br>
+Quelle 30: . <br>
+Quelle 31: . <br>
+Quelle 32: . <br>
+Quelle 33: . <br>
+Quelle 34: . <br>
+Quelle 35: . <br>
+Quelle 36: . <br>
+Quelle 37: . <br>
+Quelle 38: . <br>
+Quelle 39: . <br>
 
 
 ============================================================================================
