@@ -28,7 +28,7 @@ Quelle 27: vgl. Koscina et al., 2020; Zhang et al., 2022; Kim et al., 2021 <br>
 Quelle 28: vgl. Santos et al., 2022; Casino et al., 2019; Zhang et al., 2022 <br>
 Quelle 29: vgl. Salah et al., 2019; Santos et al., 2022 <br>
 Quelle 30: vgl. Koscina et al., 2020; Zhang et al., 2022 <br>
-Quelle 31: . <br>
+Quelle 31: vgl. Xu et al., 2021; Santos et al., 2022 <br>
 Quelle 32: . <br>
 Quelle 33: . <br>
 Quelle 34: . <br>
