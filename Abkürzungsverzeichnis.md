@@ -5,3 +5,4 @@ CBR - Case Based Reasoning <br>
 XAI - Explainable AI <br>
 OWL - Web Ontology Language <br>
 RDF - Resource Description Framework <br>
+DSR - Design Science Research <br>
