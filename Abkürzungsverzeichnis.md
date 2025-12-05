@@ -1,8 +1,8 @@
+CBR - Case Based Reasoning <br>
+DSR - Design Science Research <br>
 KI - Künstliche Intellizenz <br>
 ML - Machine Learning <br>
 NLP - Natural Language Processing <br>
-CBR - Case Based Reasoning <br>
-XAI - Explainable AI <br>
 OWL - Web Ontology Language <br>
 RDF - Resource Description Framework <br>
-DSR - Design Science Research <br>
+XAI - Explainable AI <br>
